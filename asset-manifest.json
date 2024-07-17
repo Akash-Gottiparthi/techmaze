@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/techmaze/static/css/main.07c6122b.css",
+    "main.js": "/techmaze/static/js/main.fb202cb6.js",
+    "index.html": "/techmaze/index.html",
+    "main.07c6122b.css.map": "/techmaze/static/css/main.07c6122b.css.map",
+    "main.fb202cb6.js.map": "/techmaze/static/js/main.fb202cb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c6122b.css",
+    "static/js/main.fb202cb6.js"
+  ]
+}
